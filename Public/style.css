@@ -1,0 +1,30 @@
+.paragraph
+{
+    color:rgb(190, 241, 250);
+}
+.header
+{
+    font-weight: bold;
+    border-radius: 15px;
+    box-shadow: 6px 6px 6px rgb(237, 110, 131);
+    text-shadow: 2px 2px 4px palevioletred;
+    width: 50%;
+    background:linear-gradient(to right, #f4adc9, #f77cb9)
+}
+
+body{
+background-color: bisque;
+}
+
+p
+{
+
+    width:450px;
+    border:1px solid black;
+    text-align:justify;
+    background-color:hotpink;
+    padding: 20px;
+    font-style: italic;
+    font-size: large;
+    border-radius: 15px;
+}
